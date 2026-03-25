@@ -1,3 +1,4 @@
 fpdf2
 pandas
 streamlit
+altair==4.2.2
